@@ -3,10 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://global.discourse-cdn.com/spiceworks/original/4X/c/e/6/ce6d59891754b0a7bb5320caa1ea6424c05c34c0.gif">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=omarkhaled1853&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
-
 ---
 
 ### 🚀 About Me
