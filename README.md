@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Khaled Ibrahim</h1>
 <h3 align="center">A passionate Computer and Systems Engineering student</h3>
 
-<img align="right" alt="Coding" width="330" src="https://global.discourse-cdn.com/spiceworks/original/4X/c/e/6/ce6d59891754b0a7bb5320caa1ea6424c05c34c0.gif">
+<img align="right" alt="Coding" width="330" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*ytIClEgXxsPCDIme.gif">
 
 ---
 
