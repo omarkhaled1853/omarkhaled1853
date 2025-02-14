@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Omar Khaled Ibrahim</h1>
 <h3 align="center">A passionate Computer and Systems Engineering student</h3>
 
-<img align="right" alt="Coding" width="330" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*ytIClEgXxsPCDIme.gif">
-
 ---
+
+<img align="right" alt="Coding" width="250" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*ytIClEgXxsPCDIme.gif">
+
 
 ### 🚀 About Me
 - 💻 Aspiring software developer passionate about technology and innovation.
 - 📫 How to reach me: **omarkhaled185200333@gmail.com**
 
----
 
 ### 🌐 Connect with Me
 
